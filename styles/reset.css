@@ -59,6 +59,7 @@ html{
     width: 320px;
     padding: 0 15px;
     margin: 0 auto;
+    box-sizing: border-box;
 }
 
 @media (min-width: 768px){
@@ -75,6 +76,6 @@ html{
 
 @media (min-width: 1400px){
     .container{
-        width: 95%;
+        width: 90%;
     }
 }
